@@ -1,5 +1,6 @@
-How to share data with a statistician
+How to share data with a statistician as edited by Pharm Qazeem Abdulganiyu for the John Hopkins Data Analytics Coursera
 ===========
+
 
 This is a guide for anyone who needs to share data with a statistician or data scientist. The target audiences I have in mind are:
 
